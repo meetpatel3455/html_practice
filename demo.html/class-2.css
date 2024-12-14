@@ -1,0 +1,17 @@
+body{
+    background-color:yellow;
+}
+
+
+.first{
+    height:200px;
+    width:300px;
+    border:30px;
+    padding:50px solid black;
+    box-sizing:border-box;
+}
+
+address{
+    font-size:normal;
+    font-family:'Courier New', Courier, monospace;
+}
