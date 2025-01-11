@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+/* 
+
+    text-decoratiom
+    text-transform
+    text-align
+    text shadow
+    text-indent
+    text -wrap
+    write-space
+    letter-spacing
+    word-spacing
+ */
+
+
+ /* .text-decoration{
+        text-decoration: underline;
+        
+ }
+ .text-decoration2{
+    text-decoration: overline;
+        
+ }
+ .text-decoration3{
+    text-decoration: line-through;
+ }
+ .text-decoration4{
+    text-decoration: underline overline;
+    text-decoration-color:greenyellow;
+    text-decoration-style:wavy;
+ }  */
+
+
+ /* .text-transform{
+    text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+ } */
+
+ /* .text-align{
+    text-align: center;
+    text-align: left;
+    text-align: right;
+ } */
+
+/* .text-alighn2{
+    text-align: justify;
+} */
+
+
+ /* .text-shadow{
+    text-shadow: 5px 5px yellow
+ } */
+
+ /* .text-indent{
+    text-indent: 100px;
+    text-indent: 30%;
+ } */
+
+/* 
+ .text-indent{
+    text-wrap: justify;
+    text-indent: 10%;
+ } */
+
+ /* .text-wrap{
+    text-wrap: wrap;
+    text-wrap: nowrap;
+ } */
+
+ /* .white-space{
+    white-space: wrap;
+    white-space: nowrap;
+    white-space: pre;
+ } */
+
+ /* .latter-spacing{
+    letter-spacing: 220px;
+ } */
+
+ /* .word-spacing{
+    word-spacing: 20px;
+    text-align: justify;
+ } */
+
+
+ /* .text-color{
+    color: red;
+    color:rgb(255, 255, 0);
+    color:rgba(55, 255, 50,2.5);
+    color:hsl(180deg , 50% , 50%);
+    color:#00f;
+ } */
+
+ /* .font-size{
+    font-size: 50px;
+    font-size: 300%;
+    font-size: 3.2em;
+    font-size: 1rem;
+ } */
+
+
+ /* .font-weight{
+    font-family: "Nunito Sans", serif;
+    font-size: 3rem;
+    font-weight: bold;
+    font-weight: bolder;
+    font-weight: lighter;
+    font-weight: 800;
+ }
+
+ .font-size{
+    font-style: italic;
+    /* font-style: normal; */
+ /* }  */
+
+
+ /* .direction{
+    direction: rtl;
+    unicode-bidi: bidi-override;
+    unicode-bidi: isolate-override;
+}  */
+
+.imojis{
+    font-size: 16px;
+    vertical-align: middle;
+    vertical-align: text-top;
+    vertical-align: text-bottom;
+    vertical-align: super;
+    vertical-align: baseline;
+    vertical-align: top;
+    vertical-align: bottom;
+    vertical-align: sub;
+}
+
+.font-variant{
+    font-variant: normal;
+    font-variant: small-caps;
+} 
+
