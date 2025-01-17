@@ -1,0 +1,80 @@
+/* .bg-color{
+    background-color: rgb(20, 100, 200);
+    background-color: rgba(20, 100, 200,0.4);
+    background-color: #ff04;
+    background-color: hsl(70, 60%, 20%);
+} */
+.bg-img{
+    /* height: 700px; 
+    width: 600px; */
+    border: 1px solid black;
+    background-image:url(./1.jpg);
+    background-size: cover;
+    color: white; 
+    /* background-size: contain; */
+    /* background-size: no-repeat; */
+    /* background-repeat:repeat-y; */
+    /* background-repeat:repeat-x; */
+    /* background-repeat: space; */
+    /* background-repeat: round; */
+    /* background-position: bottom; */
+    /* background-position: center;
+    background-clip: border-box;
+    background-clip: padding-box;
+    background-clip: content-box;
+    background-origin: border-box;
+    background-origin: padding-box;
+    background-origin: content-box; */
+    /* background-attachment: fixed; */
+    /* background-attachment: scroll;
+    padding: 50px; */
+}
+    /* .bg-img a{
+        padding: 10px 30px;
+        background-color: white;
+        text-decoration: none;
+        color: black;
+    } */
+
+
+.bg_gradiant{
+    height: 500px;
+    width: 500px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(95,121,9,1) 35%, rgba(0,212,255,1) 100%);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(8, 204, 162, 1) 49%, rgba(0, 212, 255, 1) 84%);
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+    background-image: radial-gradient(closest-side , green , white ,  orange);
+    background-image: linear-gradient(to left , green , white , orange);
+    background-image: conic-gradient(red 0deg, orange 90deg, yellow 180deg, green 270deg, blue 360deg);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(8, 204, 162, 1) 49%, rgba(0, 212, 255, 1) 84%);
+    background-image: radial-gradient(circle , green , white ,  orange);
+
+
+
+
+}
+
+
+
+
+
+    /* height: 500px; */
+
+    
+
+
+/* .bg_gradient{
+    height: 500px;
+    /* background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,113,9,1) 35%, rgba(0,212,255,1) 100%); */
+    /* background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%); */
+/* } */
+
+/* .bg_gradiant{
+    height: 500px;
+    width: 300px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,113,9,1) 35%, rgba(0,212,255,1) 100%);
+    /* background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%); */
+/* } */ 
