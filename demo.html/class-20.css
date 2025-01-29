@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+/* .order{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.order div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+   
+    
+} */
+/* .div-1{
+    order: 5;
+}
+.div-5{
+    order: 1;
+}
+.div-2{
+    order: 6;
+} */
+
+
+
+
+/* css overflow */
+
+
+/* .over{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    overflow: hidden;
+    overflow: scroll;
+} */
+
+.img{
+    height:300px;
+    width: 300px;
+    border: 2px solid black;
+    /* overflow: hidden; */
+    object-fit: cover;
+    overflow: scroll;
+    overflow-y: scroll;
+    /* overflow-y: hidden;
+    overflow-x: scroll; */
+    transition: 1s;
+}
+
+ing:hover{
+    transform: scale(1.5);
+    transition: 1s;
+
+}
