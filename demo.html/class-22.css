@@ -1,0 +1,60 @@
+/* p::first-line{
+    color: white;
+    background-color: blue;
+} */
+
+/* h1::first-letter{
+    color: blue;
+    background-color: green;
+    font-size: 40px;
+} */
+
+/* .before::before{
+    content: "of a";
+    background-color: yellow;
+    border: 1px solid black;
+
+}
+
+.before::after{
+    content: "and of ";
+    background-color: yellow;
+    border: 1px solid black;
+} */
+
+/* .before:after{
+    content: "";
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 1px solid black;
+    position: absolute;
+    right: -1;
+}
+
+.before::before{
+    content: "";
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border: 1px solid black;
+    position: absolute;
+    z-index: -1;
+} */
+/* 
+.in::placeholder{
+    color: yellowgreen;
+    background-color: red;
+    padding-inline: 10px;
+} */
+
+/* ol li::marker{
+    color: blue;
+    background-color: gray;
+} */
+
+
+
+ol{ list-style: georgian;   
+    list-style: decimal-leading-zero;   
+}   

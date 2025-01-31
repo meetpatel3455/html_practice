@@ -2,21 +2,21 @@
     box-sizing: border-box;
     margin: 0;
 }
-/* .order{
-    height: 300px;
+.order{
+    /* height: 300px; */
     width: 300px;
     display: flex;
-    align-items: center;
-    justify-content: center;
+    
+    
     
 }
 .order div{
-    height: 200px;
+    /* height: 200px; */
     width: 200px;
     border: 1px solid black;
    
     
-} */
+}
 /* .div-1{
     order: 5;
 }
@@ -26,6 +26,9 @@
 .div-2{
     order: 6;
 } */
+ .div-3{
+    order: 4;
+ }
 
 
 
@@ -33,17 +36,19 @@
 /* css overflow */
 
 
-/* .over{
+.over{
     height: 300px;
     width: 300px;
+    align-items: center;
     border: 2px solid black;
     overflow: hidden;
     overflow: scroll;
-} */
+}
 
 .img{
     height:300px;
     width: 300px;
+    justify-content: center;
     border: 2px solid black;
     /* overflow: hidden; */
     object-fit: cover;

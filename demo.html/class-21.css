@@ -1,0 +1,64 @@
+/* Css Pesudo Classes */
+
+
+/* h1:first-child{
+    background-color: yellow;
+    color: white;
+} */
+
+/* h1:last-child{
+    background-color: yellow;
+    color: white;
+} */
+/* p:first-child{
+    background-color: yellow;
+    color: white;
+} */
+
+/* p:last-child{
+    background-color: yellow;
+    color: black;
+} */
+
+/* h1:first-of-type{
+    background-color: yellow;
+    color: black;
+} */
+
+/* h1:last-of-type{
+    background-color: yellow;
+    color: black;
+} */
+
+/* h1:nth-child(2){
+    background-color: yellow;
+    color: black;
+} */
+/* p:nth-child(1){
+    background-color: yellow;
+    color: black;
+} */
+
+
+/* h1:nth-last-child(3){
+    background-color: yellow;
+    color: black;
+} */
+ /* h1:nth-of-type(2){
+    background-color: yellow;
+    color: black;
+ } */
+
+/* h1:nth-of-type(5){
+    background-color: yellow;
+    color: black;
+} */
+
+/* h1:only-child{
+    background-color: blue;
+} */
+
+h1:only-of-type{
+    background-color: yellow;
+    color: black;
+}
