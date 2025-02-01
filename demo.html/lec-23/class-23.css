@@ -1,0 +1,42 @@
+ /* .as::selection{
+    background-color: blue;
+    text-decoration: underline;
+    color: white;
+ } */
+
+ /* Attribute Selector  */
+
+ /* a[href="@"]{
+    background-color: yellowgreen;
+    color: white;
+ } */
+
+/* div[class="box"]{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+} */
+
+/* input[type="text"]{
+    background-color: yellowgreen;
+} */
+
+/* input[type="button"]{
+    background-color: brown;
+    width: 100px;
+} */
+
+
+/* .media{
+    height: 100px;
+    width: 100px;
+    background-color:yellow;
+} */
+
+.media{
+    height: 100px;
+    width: 100px;
+    background-color:violet;
+    /* display: none; */
+
+}
