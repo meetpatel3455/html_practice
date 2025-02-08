@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+/* 
+nav ul {
+    position: static;
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: green;
+    height: 40px;
+    align-items: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+nav{
+    position: fixed;
+    width: 100%;
+    top: 0;
+} */
+
+/* .para-1{
+    background-color: green;
+    padding: 10px;
+    color:white;
+    position: sticky;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+} */
+
+
+.maindiv{
+    position: relative;
+    background-color: yellowgreen;
+    width: 1400px;
+    height: 900px;
+}
+
+.maindiv div{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    font-size: 25px;
+}
+
+.c-1{
+    position: absolute;
+    left:0;
+}
+.c-2{
+    position: absolute;
+    left:0;
+    right:0;
+    margin: auto;
+}
+.c-3{
+    position: absolute;
+    right:0;
+}
+.c-4{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left:0;
+    margin: auto;
+}
+.c-5{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right:0;
+    margin: auto;
+}
+.c-6{
+    position: absolute;
+    right:0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.c-7{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+ 
+}
+.c-8{
+    position: absolute;
+    left: 0;
+    right:0;
+    bottom: 0;
+    margin: auto;
+}
+.c-9{
+    position: absolute;
+    right:0;
+    bottom: 0;
+}
+
+
+
+
+
